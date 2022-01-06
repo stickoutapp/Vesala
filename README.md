@@ -9,4 +9,6 @@ To proceed the visit as you are sure this page is safe, here is a easy way to do
 There's a secret passphrase built into the error page. Just make sure the page is selected (click anywhere on the screen), and just type:
 thisisunsafe
 
+https://ogp.me/  metadata for sharing on social media
+
 
