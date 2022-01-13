@@ -1,3 +1,7 @@
+set youtube banner 
+https://studio.youtube.com/channel/UC-NmsAFMMXH1dnUkwwVCXew/editing/images
+least 2048 x 1152 pixels and 6MB or less
+
 sudo npm install -g http-server
 
 serve locally with this:
@@ -16,5 +20,8 @@ There's a secret passphrase built into the error page. Just make sure the page i
 thisisunsafe
 
 https://ogp.me/  metadata for sharing on social media
+
+privacy policy generated with:
+https://termly.io/products/privacy-policy-generator/
 
 
